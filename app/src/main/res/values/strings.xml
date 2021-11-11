@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Apple News</string>
+
+
+
+    <string name="bonus_name">Aldayar Mukeyev</string>
+    <string name="bonus_pos">Junior Android Developer</string>
+    <string name="bonus_desc1">24 y.o., Almaty, bachelor of finance</string>
+    <string name="bonus_desc2">Kotlin, MVVM/MVP, Retrofit, Room, Firebase</string>
+    <string name="bonus_desc3">Linux, git, english advanced</string>
+    <string name="bonus_connect">Want to hire this candidate? \n Connect via:</string>
+
+
+</resources>
